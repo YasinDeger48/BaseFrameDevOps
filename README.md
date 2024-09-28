@@ -2,14 +2,7 @@
 
 Bu proje, Java ve Maven kullanarak oluşturulmuş basit bir Playwright test framework'üdür. Playwright, modern web uygulamalarını test etmek için güçlü bir araçtır ve bu framework, Java ile test senaryolarını oluşturmanıza ve çalıştırmanıza olanak tanır.
 
-## İçindekiler
 
-- [Başlarken](#başlarken)
-- [Kullanım](#kullanım)
-- [Yapılandırma](#yapılandırma)
-- [Test Yazma](#test-yazma)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ## Başlarken
 
